@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Steven Lai 👋
 
-<!--
-**st4ven/st4ven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a fourth-year computer science student at University of Nevada-Las Vegas, with a passion for full-stack development and building robust applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages**
+JavaScript • Python • TypeScript • C++ • HTML • CSS
+
+**Developer Tools**
+Git • Postman • Expo
+
+**Libraries/Frameworks**
+React • Next.js • PostgreSQL • TailwindCSS • Node.js • React Native
+
+---
+
+## 📫 Let’s Connect
+
+- [Portfolio](https://slai-portfolio.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/stevenlai111/)
