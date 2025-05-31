@@ -7,13 +7,13 @@ I am a fourth-year computer science student at University of Nevada-Las Vegas, w
 ## 🛠️ Tech Stack
 
 **Languages:**
-JavaScript • Python • TypeScript • C++ • HTML • CSS
+JavaScript • Python • Java • HTML • CSS • SQL • TypeScript
 
 **Developer Tools:**
-Git • Postman • Expo
+AWS • Git • Docker • Postman • Prisma • Supabase
 
 **Libraries/Frameworks:**
-React • Next.js • PostgreSQL • TailwindCSS • Node.js • React Native
+React • Spring Boot • Next.js • PostgreSQL • TailwindCSS • Node.js • Express
 
 ---
 
