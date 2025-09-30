@@ -10,10 +10,10 @@ I am a fourth-year computer science student at University of Nevada-Las Vegas, w
 JavaScript • Python • Java • HTML • CSS • SQL • TypeScript
 
 **Developer Tools:**
-AWS • Git • Docker • Postman • Prisma • Supabase
+AWS • GCP • Pulumi • Docker • Git • Postman • Prisma
 
 **Libraries/Frameworks:**
-React • Spring Boot • Next.js • PostgreSQL • TailwindCSS • Node.js • Express
+React • Spring Boot • Next.js • TailwindCSS • Node.js • Express
 
 ---
 
