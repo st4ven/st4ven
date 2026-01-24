@@ -1,6 +1,6 @@
 # Hi there, I'm Steven Lai 👋
 
-I am a fourth-year computer science student at University of Nevada-Las Vegas, with a passion for full-stack development and building robust applications.
+I am a computer science graduate at University of Nevada-Las Vegas, with a passion for full-stack development and building robust applications.
 
 ---
 
