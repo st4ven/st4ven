@@ -7,17 +7,19 @@ I am a computer science graduate at University of Nevada-Las Vegas, with a passi
 ## 🛠️ Tech Stack
 
 **Languages:**
-JavaScript • Python • Java • HTML • CSS • SQL • TypeScript
+JavaScript • Python • C/C++ • HTML • CSS • SQL • TypeScript
 
 **Developer Tools:**
-AWS • GCP • Pulumi • Docker • Git • Postman • Prisma
+Google Cloud Platform • Pulumi • Docker • Git • Postman • Prisma
 
 **Libraries/Frameworks:**
-React • Spring Boot • Next.js • TailwindCSS • Node.js • Express
+React • Next.js • TailwindCSS • Node.js • Express • FastAPI
+
+**Databases:**
+MySQL • PostgreSQL
 
 ---
 
 ## 📫 Let’s Connect
 
-- [Portfolio](https://slai-portfolio.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/stevenlai111/)
+- [LinkedIn](https://www.linkedin.com/in/st4ven/)
